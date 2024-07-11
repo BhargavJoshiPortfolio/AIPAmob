@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-convAI portfolio-0.1";
 const contentToCache = [
     "Build/AIPAmob.loader.js",
-    "Build/AIPAmob.framework.js.gz",
-    "Build/AIPAmob.data.gz",
-    "Build/AIPAmob.wasm.gz",
+    "Build/AIPAmob.framework.js",
+    "Build/AIPAmob.data",
+    "Build/AIPAmob.wasm",
     "TemplateData/style.css"
 
 ];
